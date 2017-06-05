@@ -4,7 +4,7 @@ Link To site - https://peymanmola1.github.io/Sharing-is-caring-Summative/
 
 Link to Code - https://github.com/peymanmola1/Sharing-is-caring-Summative
 
-Blogs
+## Blogs
 
 * Ideas for Sharing is caring - http://fourthfloor.raveweb.net/pmola/2017/01/27/sharing-is-caring/
 * JavaScript for cats - http://fourthfloor.raveweb.net/pmola/2017/01/29/javascript-for-cats/
@@ -21,9 +21,11 @@ Blogs
 * Destroy the Web - http://fourthfloor.raveweb.net/pmola/2017/06/04/destroy-the-web/
 * What did I learn? - http://fourthfloor.raveweb.net/pmola/2017/06/04/what-did-i-learn/
 
+## Research
+https://docs.google.com/document/d/1dzAhMWohzV8SKhgPsk3kLJLCGN-5bOLcUPJzlPhErco/edit?usp=sharing
 
-
-
+## Audience and Content Strategy
+https://docs.google.com/document/d/1V9i5Mk-lQvgJb2Aodr00OBvfkbL2uZgjJ7HtZh7gofs/edit?usp=sharing
 
 
 
