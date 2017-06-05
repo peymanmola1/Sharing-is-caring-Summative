@@ -27,7 +27,8 @@ https://docs.google.com/document/d/1dzAhMWohzV8SKhgPsk3kLJLCGN-5bOLcUPJzlPhErco/
 ## Audience and Content Strategy
 https://docs.google.com/document/d/1V9i5Mk-lQvgJb2Aodr00OBvfkbL2uZgjJ7HtZh7gofs/edit?usp=sharing
 
-
+## Formative Video Link
+https://www.youtube.com/watch?v=wWO_dKUcTGU
 
  
  
